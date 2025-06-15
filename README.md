@@ -65,7 +65,4 @@ pip install -r requirements.txt
 # 3️⃣ Install the package
 pip install -e .
 ```
-
----
-
-Let me know if you'd like a dark mode preview or badges for GitHub later!
+ 
