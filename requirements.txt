@@ -1,0 +1,6 @@
+dotenv
+google-genai
+gradio
+ollama
+huggingface
+transformers
